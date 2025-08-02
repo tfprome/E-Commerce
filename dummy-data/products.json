@@ -1,0 +1,401 @@
+[{
+  "_id": {
+    "$oid": "654dbf25abda0c85053c9902"
+  },
+  "title": "Asus 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "11000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "popular",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "title": "Asus 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "12000",
+  "discount": true,
+  "discountPrice": "70",
+  "image": "data:image/jpeg;base64,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",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf2aabda0c85053c9905"
+  },
+  "title": "Del 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "13000",
+  "discount": true,
+  "discountPrice": "200",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "flash",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf2eabda0c85053c9907"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "14000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "64f87d60502e1b80556da15a"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "15000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "651da44d1ce672f6c8b7961d"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "16000",
+  "discount": false,
+  "discountPrice": "0",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "trending",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "651da4431ce672f6c8b7961c"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "17000",
+  "discount": false,
+  "discountPrice": "0",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "top",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "651da47f1ce672f6c8b7961f"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "18000",
+  "discount": false,
+  "discountPrice": "0",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "popular",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf1eabda0c85053c98ff"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "19000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf1cabda0c85053c98fe"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "20000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "trending",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf21abda0c85053c9900"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "21000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf23abda0c85053c9901"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "22000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf26abda0c85053c9903"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "23000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "651da4531ce672f6c8b7961e"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "24000",
+  "discount": false,
+  "discountPrice": "0",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "special",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf28abda0c85053c9904"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "25000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf2cabda0c85053c9906"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "26000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+}]

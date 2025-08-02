@@ -1,0 +1,26 @@
+export const PORT =5050
+export const DATABASE='mongodb://127.0.0.1:27017/student'
+export const JWT_KEY='XYZABC'
+export const JWT_EXPIRE_TIME=30*60*60
+// export const EMAIL_USER='info@teamrabbil.com'
+// export const EMAIL_PASS='~sR4[bhaC[Qs'
+// export const EMAIL_HOST='mail.teamrabbil.com'
+// export const EMAIL_PORT=25
+export const EMAIL_USER='tfpromy99@gmail.com'
+export const EMAIL_PASS='cgwh mqus affs pwfe'
+export const EMAIL_HOST='smtp.gmail.com'
+export const EMAIL_PORT=587
+export const EMAIL_SECURITY=false
+export const WEB_CACHE=false
+export const MAX_JSON_SIZE="10 MB" 
+export const REQUEST_TIME=15*60*100
+export const REQUEST_NUMBER=2000
+export const URL_ENCODED=true
+
+export const STORE_ID='XXXXXX'
+export const STORE_PASSWORD='XXX'
+export const CURRENCY='BDT'
+export const SUCCESS_URL=''
+export const FAILED_URL=''
+export const CANCEL_URL=''
+export const INIT_URL=''
